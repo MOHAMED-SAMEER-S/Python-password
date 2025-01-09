@@ -1,39 +1,5 @@
-
-# Open Password Protected File Using Python.
-
-In this project, you can crack any PDF file without password and wordlist.
-
-let's start...............
-
-To make this project you need to follow this step:-
-
-
-
-
-
-
-
-
-
-
-## Installation
-
-Install package with pip
-
-```bash
-pip install pikepdf
-pip install colorama 
-pip install itertools 
-
-```
-    
-## Deployment
-
-To deploy this project run
-
-```bash
-#please subscribe "Problem Solve With Ridoy" youtube channel
-
+# Please subscribe my youtube channel "Problem Solve with Ridoy"
+# Also you can follow me on facebook "Problem Solve with Ridoy"
 import pikepdf
 import time
 from colorama import Fore
@@ -60,26 +26,5 @@ for i in range(4,3,-1):
             continue
 
 print(Fore.LIGHTYELLOW_EX+ "Thank you")
-```
 
-
-## 
-
-
-
-
-
-
-
-## You can follow me
-
-Facebook:- https://www.facebook.com/problemsolvewithridoy/
-
-Linkedin:- https://www.linkedin.com/in/ridoyhossain/
-
-YouTube:- https://www.youtube.com/@problemsolvewithridoy
-
-Gmail:- entridoy2@gmail.com
-
-If you have any confusion, please feel free to contact me. Thank you
-
+# If you have any confution then fell free contact with me- entridoy2@gmail.com or linkedin: ridoyhossain
